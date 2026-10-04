@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Tay Thi Đua Lớp 6B1 - Master Prompt System",
+  "description": "Master Prompt siêu chi tiết 35 phần La Mã cho AI lập trình xây dựng Web App Sổ Tay Thi Đua Lớp 6B3 THCS Châu Thành (GVCN: Cô Nguyễn Thị Hồng Loan) với Google Sheets & Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
